@@ -1,0 +1,14 @@
+/home/wethinkcode/PersonalCSharpProjects/CSharpProjects/bin/Debug/net7.0/01-fahrenheit_to_celsius
+/home/wethinkcode/PersonalCSharpProjects/CSharpProjects/bin/Debug/net7.0/01-fahrenheit_to_celsius.deps.json
+/home/wethinkcode/PersonalCSharpProjects/CSharpProjects/bin/Debug/net7.0/01-fahrenheit_to_celsius.runtimeconfig.json
+/home/wethinkcode/PersonalCSharpProjects/CSharpProjects/bin/Debug/net7.0/01-fahrenheit_to_celsius.dll
+/home/wethinkcode/PersonalCSharpProjects/CSharpProjects/bin/Debug/net7.0/01-fahrenheit_to_celsius.pdb
+/home/wethinkcode/PersonalCSharpProjects/CSharpProjects/obj/Debug/net7.0/01-fahrenheit_to_celsius.GeneratedMSBuildEditorConfig.editorconfig
+/home/wethinkcode/PersonalCSharpProjects/CSharpProjects/obj/Debug/net7.0/01-fahrenheit_to_celsius.AssemblyInfoInputs.cache
+/home/wethinkcode/PersonalCSharpProjects/CSharpProjects/obj/Debug/net7.0/01-fahrenheit_to_celsius.AssemblyInfo.cs
+/home/wethinkcode/PersonalCSharpProjects/CSharpProjects/obj/Debug/net7.0/01-fahrenheit_to_celsius.csproj.CoreCompileInputs.cache
+/home/wethinkcode/PersonalCSharpProjects/CSharpProjects/obj/Debug/net7.0/01-fahrenheit_to_celsius.dll
+/home/wethinkcode/PersonalCSharpProjects/CSharpProjects/obj/Debug/net7.0/refint/01-fahrenheit_to_celsius.dll
+/home/wethinkcode/PersonalCSharpProjects/CSharpProjects/obj/Debug/net7.0/01-fahrenheit_to_celsius.pdb
+/home/wethinkcode/PersonalCSharpProjects/CSharpProjects/obj/Debug/net7.0/01-fahrenheit_to_celsius.genruntimeconfig.cache
+/home/wethinkcode/PersonalCSharpProjects/CSharpProjects/obj/Debug/net7.0/ref/01-fahrenheit_to_celsius.dll
