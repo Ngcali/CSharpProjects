@@ -1,0 +1,14 @@
+/home/wethinkcode/PersonalCSharpProjects/CSharpProjects/03-calculate_final_gpa/bin/Debug/net7.0/03-calculate_final_gpa
+/home/wethinkcode/PersonalCSharpProjects/CSharpProjects/03-calculate_final_gpa/bin/Debug/net7.0/03-calculate_final_gpa.deps.json
+/home/wethinkcode/PersonalCSharpProjects/CSharpProjects/03-calculate_final_gpa/bin/Debug/net7.0/03-calculate_final_gpa.runtimeconfig.json
+/home/wethinkcode/PersonalCSharpProjects/CSharpProjects/03-calculate_final_gpa/bin/Debug/net7.0/03-calculate_final_gpa.dll
+/home/wethinkcode/PersonalCSharpProjects/CSharpProjects/03-calculate_final_gpa/bin/Debug/net7.0/03-calculate_final_gpa.pdb
+/home/wethinkcode/PersonalCSharpProjects/CSharpProjects/03-calculate_final_gpa/obj/Debug/net7.0/03-calculate_final_gpa.GeneratedMSBuildEditorConfig.editorconfig
+/home/wethinkcode/PersonalCSharpProjects/CSharpProjects/03-calculate_final_gpa/obj/Debug/net7.0/03-calculate_final_gpa.AssemblyInfoInputs.cache
+/home/wethinkcode/PersonalCSharpProjects/CSharpProjects/03-calculate_final_gpa/obj/Debug/net7.0/03-calculate_final_gpa.AssemblyInfo.cs
+/home/wethinkcode/PersonalCSharpProjects/CSharpProjects/03-calculate_final_gpa/obj/Debug/net7.0/03-calculate_final_gpa.csproj.CoreCompileInputs.cache
+/home/wethinkcode/PersonalCSharpProjects/CSharpProjects/03-calculate_final_gpa/obj/Debug/net7.0/03-calculate_final_gpa.dll
+/home/wethinkcode/PersonalCSharpProjects/CSharpProjects/03-calculate_final_gpa/obj/Debug/net7.0/refint/03-calculate_final_gpa.dll
+/home/wethinkcode/PersonalCSharpProjects/CSharpProjects/03-calculate_final_gpa/obj/Debug/net7.0/03-calculate_final_gpa.pdb
+/home/wethinkcode/PersonalCSharpProjects/CSharpProjects/03-calculate_final_gpa/obj/Debug/net7.0/03-calculate_final_gpa.genruntimeconfig.cache
+/home/wethinkcode/PersonalCSharpProjects/CSharpProjects/03-calculate_final_gpa/obj/Debug/net7.0/ref/03-calculate_final_gpa.dll

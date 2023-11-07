@@ -1,0 +1,14 @@
+/home/wethinkcode/PersonalCSharpProjects/CSharpProjects/01-fahrenheit_to_celsius/bin/Debug/net7.0/CSharpProjects
+/home/wethinkcode/PersonalCSharpProjects/CSharpProjects/01-fahrenheit_to_celsius/bin/Debug/net7.0/CSharpProjects.deps.json
+/home/wethinkcode/PersonalCSharpProjects/CSharpProjects/01-fahrenheit_to_celsius/bin/Debug/net7.0/CSharpProjects.runtimeconfig.json
+/home/wethinkcode/PersonalCSharpProjects/CSharpProjects/01-fahrenheit_to_celsius/bin/Debug/net7.0/CSharpProjects.dll
+/home/wethinkcode/PersonalCSharpProjects/CSharpProjects/01-fahrenheit_to_celsius/bin/Debug/net7.0/CSharpProjects.pdb
+/home/wethinkcode/PersonalCSharpProjects/CSharpProjects/01-fahrenheit_to_celsius/obj/Debug/net7.0/CSharpProjects.GeneratedMSBuildEditorConfig.editorconfig
+/home/wethinkcode/PersonalCSharpProjects/CSharpProjects/01-fahrenheit_to_celsius/obj/Debug/net7.0/CSharpProjects.AssemblyInfoInputs.cache
+/home/wethinkcode/PersonalCSharpProjects/CSharpProjects/01-fahrenheit_to_celsius/obj/Debug/net7.0/CSharpProjects.AssemblyInfo.cs
+/home/wethinkcode/PersonalCSharpProjects/CSharpProjects/01-fahrenheit_to_celsius/obj/Debug/net7.0/CSharpProjects.csproj.CoreCompileInputs.cache
+/home/wethinkcode/PersonalCSharpProjects/CSharpProjects/01-fahrenheit_to_celsius/obj/Debug/net7.0/CSharpProjects.dll
+/home/wethinkcode/PersonalCSharpProjects/CSharpProjects/01-fahrenheit_to_celsius/obj/Debug/net7.0/refint/CSharpProjects.dll
+/home/wethinkcode/PersonalCSharpProjects/CSharpProjects/01-fahrenheit_to_celsius/obj/Debug/net7.0/CSharpProjects.pdb
+/home/wethinkcode/PersonalCSharpProjects/CSharpProjects/01-fahrenheit_to_celsius/obj/Debug/net7.0/CSharpProjects.genruntimeconfig.cache
+/home/wethinkcode/PersonalCSharpProjects/CSharpProjects/01-fahrenheit_to_celsius/obj/Debug/net7.0/ref/CSharpProjects.dll

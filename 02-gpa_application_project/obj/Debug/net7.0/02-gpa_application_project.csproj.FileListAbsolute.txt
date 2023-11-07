@@ -1,0 +1,14 @@
+/home/wethinkcode/PersonalCSharpProjects/CSharpProjects/02-gpa_application_project/bin/Debug/net7.0/02-gpa_application_project
+/home/wethinkcode/PersonalCSharpProjects/CSharpProjects/02-gpa_application_project/bin/Debug/net7.0/02-gpa_application_project.deps.json
+/home/wethinkcode/PersonalCSharpProjects/CSharpProjects/02-gpa_application_project/bin/Debug/net7.0/02-gpa_application_project.runtimeconfig.json
+/home/wethinkcode/PersonalCSharpProjects/CSharpProjects/02-gpa_application_project/bin/Debug/net7.0/02-gpa_application_project.dll
+/home/wethinkcode/PersonalCSharpProjects/CSharpProjects/02-gpa_application_project/bin/Debug/net7.0/02-gpa_application_project.pdb
+/home/wethinkcode/PersonalCSharpProjects/CSharpProjects/02-gpa_application_project/obj/Debug/net7.0/02-gpa_application_project.GeneratedMSBuildEditorConfig.editorconfig
+/home/wethinkcode/PersonalCSharpProjects/CSharpProjects/02-gpa_application_project/obj/Debug/net7.0/02-gpa_application_project.AssemblyInfoInputs.cache
+/home/wethinkcode/PersonalCSharpProjects/CSharpProjects/02-gpa_application_project/obj/Debug/net7.0/02-gpa_application_project.AssemblyInfo.cs
+/home/wethinkcode/PersonalCSharpProjects/CSharpProjects/02-gpa_application_project/obj/Debug/net7.0/02-gpa_application_project.csproj.CoreCompileInputs.cache
+/home/wethinkcode/PersonalCSharpProjects/CSharpProjects/02-gpa_application_project/obj/Debug/net7.0/02-gpa_application_project.dll
+/home/wethinkcode/PersonalCSharpProjects/CSharpProjects/02-gpa_application_project/obj/Debug/net7.0/refint/02-gpa_application_project.dll
+/home/wethinkcode/PersonalCSharpProjects/CSharpProjects/02-gpa_application_project/obj/Debug/net7.0/02-gpa_application_project.pdb
+/home/wethinkcode/PersonalCSharpProjects/CSharpProjects/02-gpa_application_project/obj/Debug/net7.0/02-gpa_application_project.genruntimeconfig.cache
+/home/wethinkcode/PersonalCSharpProjects/CSharpProjects/02-gpa_application_project/obj/Debug/net7.0/ref/02-gpa_application_project.dll
